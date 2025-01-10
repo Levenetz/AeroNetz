@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FlightConverter.convertToModel(res:):FlightConverter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateFormatter">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "dateFormatter.date(from: flightDepartureString)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ApiService.fetchFlights(completion:):APIService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FlightsViewModel.filteredFlights.getter:FlightsViewModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
